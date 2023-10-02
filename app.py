@@ -1,4 +1,6 @@
 def addnum(a,b):
     return a+b 
-    
-print(addnum(10 , 20))
+
+x = int(input("please input number1 :"))
+y = int(input("please input number2 :"))
+print(addnum(x , y))
